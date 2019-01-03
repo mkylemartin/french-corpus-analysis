@@ -6,3 +6,5 @@ In this assignment I wanted to try a few different things on my 24,000,000 word 
 2. Implement a library using Markov chains to generate sentences from the corpus; I used [`markovify`](https://github.com/jsvine/markovify).
 3. Write a custom concordance function that could help me disambiguate meanings between four semantically similar verbs `sortir`, `partir`, `quitter`, `laisser`.
 4. Determine if certain newspapers referenced more named entities than others. 
+
+**The jupyter notebook includes output**
