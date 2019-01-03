@@ -1,5 +1,5 @@
 # french-corpus-analysis
-analysis assignment for LING 440
+Analysis assignment for LING 440
 
 In this assignment I wanted to try a few different things on my 24,000,000 word french news corpus:
 1. Frequency list of n-grams (I did 2, 3, 4, 5 grams)
